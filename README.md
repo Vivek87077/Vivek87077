@@ -6,19 +6,17 @@
 
 <p align="left"> <a href="https://twitter.com/viveksh24117957" target="blank"><img src="https://img.shields.io/twitter/follow/viveksh24117957?logo=twitter&style=for-the-badge" alt="viveksh24117957" /></a> </p>
 
-- 🔭 I’m currently pursuing in **B-Tech (AIML)**
-
-- 🌱 I’m currently exploring new things in **technology**
-
-- 👯 I’m looking to collaborate on **Software Engineering**
-
-- 👨‍💻 All of my projects are available at [GitHub](GitHub)
-
-- 💬 Ask me about **Frontend, React, MERN**
-
-- 📫 How to reach me [Linkedin].(Linkedin)
-
-- ⚡ Fun fact **You lose up to 30 percent of your taste buds during flight.**
+<ul dir="auto">
+<li>🔭 I’m currently pursuing B-Tech(AIML).</li>
+<li>🌱 I’m currently exploring new things in technology.</li>
+<li>👯 I’m looking to collaborate on Software Engineering</li>
+<li>🤔 I’m looking for help with Open Source Projects.</li>
+<li>💬 Ask me about Software development</li>
+<li>🥅 Goals: Contribute more to Open Source projects.</li>
+<li>📫 How to reach me: <a href="www.linkedin.com/in/vivek-sharma-11a739207" rel="nofollow">LinkedIn</a></li>
+<li>⚡ Fun fact: You lose up to 30 percent of your taste buds during flight.
+<br><br></li>
+</ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
